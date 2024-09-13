@@ -1,2 +1,2 @@
-# PE
+# Probability and Statistics
  
